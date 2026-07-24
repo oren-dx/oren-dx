@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=0ea5e9" />
   </a>
 
-  <a href="mailto:your-email orendessai@gmail.com">
+  <a href="mailto:your-orendessai@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
   </a>
 
