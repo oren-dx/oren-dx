@@ -26,7 +26,7 @@
 
 # 👋 Hi, I'm Oren Michael Dessai
 
-### 🐍 Python Backend Developer | Django Developer | API Enthusiast
+### Python Backend Developer | Django Developer | 
 
 I'm a beginner **Python Backend Developer** focused on learning and building practical web applications using **Python, Django, Django REST Framework, and relational databases**.
 
@@ -188,18 +188,6 @@ Deployment
    ↓
 System Design
 ```
-
-### 📚 My Current Focus
-
-* Advanced Django
-* Django REST Framework
-* API Authentication
-* PostgreSQL
-* Database Design
-* Backend Architecture
-* Deployment
-* System Design
-* Writing cleaner and reusable code
 
 ---
 
