@@ -28,7 +28,7 @@
 
 ### Python Backend Developer | Django Developer | 
 
-I'm a beginner **Python Backend Developer** focused on learning and building practical web applications using **Python, Django, Django REST Framework, and relational databases**.
+I'm a **Python Backend Developer** focused on learning and building practical web applications using **Python, Django, Django REST Framework, and relational databases**.
 
 I enjoy turning ideas into functional applications, working with databases, creating authentication systems, developing REST APIs, and learning how backend systems work.
 
